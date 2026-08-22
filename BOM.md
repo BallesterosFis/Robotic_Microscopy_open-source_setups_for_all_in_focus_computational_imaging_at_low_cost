@@ -7,12 +7,14 @@ This document lists all components required to build the automated Focus Stackin
 ## 1. Optics
 | Component | Specification | Quantity | Approx. Cost (USD) | Supplier|
 | :--- | :--- | :--- | :--- | :--- |
-| Objective Lens | 20x Plan Achromatic (RMS, NA 0.40) | 1 | $83.00 | [20X microscope infinite plane long working distance objective](https://es.aliexpress.com/item/1005003369305362.html?spm=a2g0o.order_list.order_list_main.10.6d5c194daCU6Aa&gatewayAdapt=glo2esp)
+| Objective Lens | 20x Plan Achromatic (RMS, NA 0.40) | 1 | $83.00 | [20X microscope infinite plane long working distance objective](https://es.aliexpress.com/item/1005003369305362.html?spm=a2g0o.order_list.order_list_main.10.6d5c194daCU6Aa&gatewayAdapt=glo2esp) **
 | Tube Lens | Achromatic doublet ($f=50mm$) | 1 | $25.00 | [Io Rodeo Achromatic lens](https://iorodeo.com/products/achromatic-lens)
 | Camera | Raspberry Pi Camera 8MP | 1 | $30.00 | [Raspberry Pi Camera Module V2](https://www.amazon.com/-/es/dp/B01ER2SKFS?ref=ppx_yo2ov_dt_b_fed_asin_title&language=en_US)
 | Condenser Lens | PMMA lens $5mm \times 13mm$ | 1 | $0.50 | [Condenser Lens ](https://es.aliexpress.com/item/1052713746.html?spm=a2g0o.order_list.order_list_main.40.6ee7194dbV5ZNl&gatewayAdapt=glo2esp)
 | Light Source | Star LED | 1 | $1.00 | [White LED](https://www.sigmaelectronica.net/producto/led-3w-blanco/)
 | Beamsplitter | $12 mm \times 18 mm$ | 1 | $2.00 | [Beamsplitter](https://es.aliexpress.com/item/1005007473867436.html?spm=a2g0o.order_list.order_list_main.25.6ee7194dbV5ZNl&gatewayAdapt=glo2esp)
+
+> **⚠️ Availability note:** The original AliExpress link for the 20x Plan Achromatic objective is no longer available. As an alternative, it can be purchased here: [Amazon](https://a.co/d/00jevUMa).
 
 ## 2. Motion Control & Electronics
 | Component | Specification | Quantity | Approx. Cost (USD) | Supplier|
